@@ -1,7 +1,7 @@
-# 🧠 Perception Trick Algorithm
+# 🧠 Perceptron Trick Algorithm
 
 ## 📌 Project Overview
-This project implements the **Perception Trick Algorithm**, which processes two different classes of data points as input from keyboard which are linearly separable to perform specific computations. It demonstrates how multiple inputs can be analyzed and transformed into meaningful insights.
+This project implements the **Perceptron Trick Algorithm**, which processes two different classes of data points as input from keyboard which are linearly separable to perform specific computations. It demonstrates how multiple inputs can be analyzed and transformed into meaningful insights.
 
 ## 🔍 Features
 - Accepts two distinct data inputs.
